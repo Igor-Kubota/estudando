@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591814781 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\hanoi 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

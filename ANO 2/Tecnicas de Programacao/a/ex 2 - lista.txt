@@ -1,0 +1,44 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "lista.h"
+
+TLista* ListaNumPares(TLista*);
+
+int main()
+{
+    TLista *lista, *pares;
+    Dados d;
+    lista = CriarLista();
+    int i, N;
+
+    printf("Digite a quantidade de valores: ");
+    scanf("%i", &N);
+    for (i=0; i<N; i++)
+    {
+        printf("Digite um valor: ");
+        scanf("%i", &d.num);
+        InserirNoFim(lista, d);
+    }
+
+    pares = ListaNumPares(lista);
+    ExibirLista(pares);
+
+
+    return 0;
+}
+
+TLista* ListaNumPares(TLista *lista)
+{
+    TLista *aux = lista;
+
+    TLista *pares;
+    pares = CriarLista();
+
+    while (aux->prox != NULL)
+    {
+        aux = aux->prox;
+        if (aux->dados.num % 2 ==0)
+            InserirNoFim(pares, aux->dados);
+    }
+    return pares;
+}

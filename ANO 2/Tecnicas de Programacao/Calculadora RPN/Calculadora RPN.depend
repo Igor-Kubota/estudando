@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1597424889 source:c:\users\guisa\onedrive - instituto maua de tecnologia\engenharia 2º comp\ecm404 - programação\c\aula 14 - pilha\calculadora rpn\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1597424889 c:\users\guisa\onedrive - instituto maua de tecnologia\engenharia 2º comp\ecm404 - programação\c\aula 14 - pilha\calculadora rpn\pilha.h
+
+1597429298 source:c:\users\guisa\onedrive - instituto maua de tecnologia\engenharia 2º comp\ecm404 - programação\c\aula 14 - pilha\calculadora rpn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"pilha.h"
+
+1597429751 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\calculadora rpn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"pilha.h"
+
+1597424889 c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\calculadora rpn\pilha.h
+
+1597424889 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\calculadora rpn\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1597426428 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\08.07 aula 2\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"pilha.h"
+
+1408375242 c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\08.07 aula 2\pilha.h
+
+1597430260 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\08.07 aula 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"pilha.h"
+

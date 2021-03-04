@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1597432336 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\08.21 aula 3\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1598037994 c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\08.21 aula 3\fila.h
+
+1598037956 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\08.21 aula 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fila.h"
+	<ctype.h>
+

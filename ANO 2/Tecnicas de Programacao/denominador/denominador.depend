@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591817643 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\denominador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

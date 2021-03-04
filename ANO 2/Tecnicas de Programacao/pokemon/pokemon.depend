@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1432154425 source:c:\users\roberto.pesquisa\desktop\pokemon\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokemon.h"
+
+1432155223 c:\users\roberto.pesquisa\desktop\pokemon\pokemon.h
+	<time.h>
+	<string.h>
+
+1589232399 source:d:\onedrive\desktop\onedrive_2020-05-11\10 - referência - pokémon\professor\pokémon - gabarito\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokemon.h"
+
+1589232538 d:\onedrive\desktop\onedrive_2020-05-11\10 - referência - pokémon\professor\pokémon - gabarito\pokemon.h
+	<time.h>
+	<string.h>
+
+1589232538 source:d:\onedrive\desktop\onedrive_2020-05-11\10 - referência - pokémon\professor\pokémon - gabarito\pokemon.c
+	"pokemon.h"
+
+1591638000 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\pokemon\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pokemon.h"
+	<stdio.h>
+	<stdlib.h>
+	"pokemon.h"
+
+1589234254 c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\pokemon\pokemon.h
+

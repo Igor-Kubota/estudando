@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1599243818 source:c:\users\rapha\desktop\filas em supermercado\supermercado\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1599238820 c:\users\rapha\desktop\filas em supermercado\supermercado\fila.h
+
+1599245847 source:c:\users\rapha\desktop\filas em supermercado\supermercado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+
+1598923076 c:\users\rapha\desktop\filas em supermercado\supermercado\clientes.h
+	"fila.h"
+
+1599243818 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\supermercado\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1599238820 c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\supermercado\fila.h
+
+1599245847 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\supermercado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"clientes.h"
+
+1598923076 c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\supermercado\clientes.h
+	"fila.h"
+

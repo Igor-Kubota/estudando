@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590010896 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\05.20 gps\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+

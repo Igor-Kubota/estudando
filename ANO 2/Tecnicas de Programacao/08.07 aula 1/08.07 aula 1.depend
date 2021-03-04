@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1596829557 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\08.07 aula 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	<string.h>
+
+1596828321 c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\08.07 aula 1\lista.h
+
+1596829715 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\08.07 aula 1\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

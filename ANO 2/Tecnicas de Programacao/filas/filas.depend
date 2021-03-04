@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1597773923 source:c:\users\vinii\documents\progs\filas\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1597781484 c:\users\vinii\documents\progs\filas\fila.h
+
+1597773924 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\filas\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1597781486 c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\filas\fila.h
+
+1598035562 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\filas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+	<string.h>
+

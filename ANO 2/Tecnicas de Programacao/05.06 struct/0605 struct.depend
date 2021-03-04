@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588801755 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\0605 struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

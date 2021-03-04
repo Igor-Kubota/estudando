@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1601323964 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\labirinto\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1601323964 c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\labirinto\fila.h
+
+1601665153 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\labirinto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"grafo.h"
+
+1601323964 c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\labirinto\grafo.h
+
+1601665025 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\labirinto\grafo.c
+	"grafo.h"
+	"fila.h"
+	<math.h>
+
+1601323964 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\labirinto feito\labirinto\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1601323964 c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\labirinto feito\labirinto\fila.h
+
+1601665274 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\labirinto feito\labirinto\grafo.c
+	"grafo.h"
+	"fila.h"
+	<math.h>
+
+1601323964 c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\labirinto feito\labirinto\grafo.h
+
+1601665153 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\labirinto feito\labirinto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"grafo.h"
+

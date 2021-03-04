@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1444844127 source:x:\ecm403\16 - grafos\aula 04 - grafos e caminhos\distribuir\grafo.c
+	"grafo.h"
+	"fila.h"
+	<math.h>
+
+1444841940 x:\ecm403\16 - grafos\aula 04 - grafos e caminhos\distribuir\grafo.h
+
+1408135912 x:\ecm403\16 - grafos\aula 04 - grafos e caminhos\distribuir\fila.h
+
+1476212501 source:x:\ecm403\16 - grafos\aula 04 - grafos e caminhos\distribuir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"grafo.h"
+
+1408136032 source:x:\ecm403\16 - grafos\aula 04 - grafos e caminhos\distribuir\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1597100496 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\dijkstra e prim\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1597100496 c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\dijkstra e prim\fila.h
+
+1597100496 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\dijkstra e prim\grafo.c
+	"grafo.h"
+	"fila.h"
+	<math.h>
+
+1597100496 c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\dijkstra e prim\grafo.h
+

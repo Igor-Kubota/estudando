@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586378556 source:c:\users\erick\desktop\jogos\imt\ano 2\tecnicas de programacao\string0804\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
