@@ -1,32 +1,53 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%    Igor Eiki Ferreira Kubota 
+%%    RA: 19.02466-5
+
 %%  0 -  Proposta de trabalho - parte 2
 %%
 %%  a. Cada aluno determina as frequências fo, f1 e f2 (3x) - cada vogal 9 valores - 45 valores. //
+%%      Foi utilizado para preencher a Base de Conhecimentos.
+
 %%  b. Base de conhecimento Número de alunos x 45.//
+%%      Foi utilizada a versão disponivel no dia 13/04, sendo assim os dados
+%%      posteriores a essa data não foram utilizados.
+
 %%  c. Histrograma de cada vogal - média e o desvio padrão de cada frequência para cada vogal. //
+%%      Cada Vogal possui o seu arquivo na pasta "AnaliseVogais", em que cada arquivo.m 
+%%      plota os histogramas de f0,f1 e f2; um Boxplot das frequencias, e o scatter
+%%      das frequencias com os parametros f1 e f2.
+
 
 %%  d. Elimnar valores fora de contexto e verificar diferenças da base//
+%%      Os Outliers foram eliminados observando o Boxplot e o scatter,
+%%      sendo assim removidas manualmente da Base de Dados atraves do Excel.
 
 %%  e. Gravar cinco vogais que não serão usadas na base. Serão usadas somente para teste.//
+%%      As vogais foram gravadas e analisadas para a obtenção de f0, f1 e f1.
 
-%%  Vogal	f0	  f1	  f2
 
-%%     A	140	  650	  1040
-%%
-%%     E	100	  550	  1810
-%%
-%%     I	310	  2280  3020
-%%
-%%     O	147	  535	  909
-%%
-%%     U	119	  736	  2484
+%%        Vogal	f0	  f1	  f2
 
+%%         A	  140	  650	  1040
 %%
+%%         E	  100	  550	  1810
+%%
+%%         I	  310	  2280  3020
+%%
+%%         O	  147	  535	  909
+%%
+%%         U  	119	  736	  2484
+
 %%  f. 1 - acertou e 0 - errou --> a,e,i,o,u --> 0 1 1 1  //
-
-%%  Apresentou Erro somente na Vogal A, em que obteve-se O.
+%%      Apresentou Erro somente na Vogal A, em que obteve-se a vogal O,
+%%      Devido à similidaridade dos dados no banco de dados.
 
 %%  g. Qualidade do sistema de aprendizado para cada vogal
+%%      Obteve-se em média uma taxa de acerto de 80%, uma vez que somente
+%%      encontrou-se erro em relação à Vogal A testada. Com um refinamento
+%%      dos dados presentes na BD, talvez seja possivel melhorar o 
+%%      resultado obtido.
+
 %%
 %%  Entrega 15/04 até 23:59 - individual
 
@@ -55,7 +76,7 @@ pkg load signal;
 %%% com senoides
 %%% sinal a ser trabalhado - gk
 
-%%[gk,fs] = audioread('U3.wav');          % leitura de um sinal real - volga /a/.
+%%[gk,fs] = audioread('U3.wav');          % leitura de um sinal real - vogal /a/.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%  3 - Pré - processamento do sinal

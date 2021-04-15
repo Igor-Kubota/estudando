@@ -1,4 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%    Igor Eiki Ferreira Kubota 
+%%    RA: 19.02466-5
+
 %% 0 - Boas práticas
 %% 
 %% Dicas para a segunda parte do trabalho T2
@@ -26,6 +30,9 @@ pkg load statistics;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%% carrega as vogais em uma variavel to tipo cell
+
+%%% O Arquivo ja está sem os Outliers ue foram retirados
+%%% Manualmente pelo excel.
 
 vogais_DB = csv2cell ("VogaisOutlierFinal2CSV.csv");
 

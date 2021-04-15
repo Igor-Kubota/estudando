@@ -1,4 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%    Igor Eiki Ferreira Kubota 
+%%    RA: 19.02466-5
+
 %% 0 - Boas práticas
 %% 
 %% Dicas para a segunda parte do trabalho T2

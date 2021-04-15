@@ -25,7 +25,10 @@ pkg load statistics;
 %%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
 %%% carrega as vogais em uma variável tipo xlsx.
+%%% Os arquivos Ja estão sem os Outliers que foram retirados
+%%% manualmente pelo excel.
 
 vogais_DBA = xlsread ("Aoutlier.xlsx");
 
